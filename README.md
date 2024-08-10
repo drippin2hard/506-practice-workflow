@@ -23,11 +23,6 @@ def example_function(x, y):
     return result
 
 # Example of calling the function and printing the result
-example_result = example_function(10, 5)
+example_result = example_function(25, 14)
 print("Function Output:", example_result)
 
-
-print("Number Variable:", number_variable)
-print("String Variable:", string_variable)
-print("List Variable:", list_variable)
-print("Dictionary Variable:", dictionary_variable)
